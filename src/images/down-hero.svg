@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="296" height="487" viewBox="0 0 296 487">
+  <g id="Group_23" data-name="Group 23" transform="translate(-1220 -536)">
+    <g id="Group_20" data-name="Group 20">
+      <path id="Path_14" data-name="Path 14" d="M1223,893V592.606h291.95V893Z" fill="#f0f" opacity="0.08"/>
+      <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(1223 536)" fill="#f0f" stroke="#45b6ff" stroke-width="5" opacity="0.5">
+        <ellipse cx="146.5" cy="59" rx="146.5" ry="59" stroke="none"/>
+        <ellipse cx="146.5" cy="59" rx="144" ry="56.5" fill="none"/>
+      </g>
+      <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(1223 834)" fill="#f0f" stroke="#45b6ff" stroke-width="5" opacity="0.5">
+        <ellipse cx="146.5" cy="59" rx="146.5" ry="59" stroke="none"/>
+        <ellipse cx="146.5" cy="59" rx="144" ry="56.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_21" data-name="Group 21" transform="translate(-3 71)">
+      <path id="Path_14-2" data-name="Path 14" d="M1223,893V592.606h291.95V893Z" fill="#0f4" opacity="0.08"/>
+      <g id="Ellipse_4-2" data-name="Ellipse 4" transform="translate(1223 536)" fill="#0f4" stroke="#45b6ff" stroke-width="5" opacity="0.5">
+        <ellipse cx="146.5" cy="59" rx="146.5" ry="59" stroke="none"/>
+        <ellipse cx="146.5" cy="59" rx="144" ry="56.5" fill="none"/>
+      </g>
+      <g id="Ellipse_5-2" data-name="Ellipse 5" transform="translate(1223 834)" fill="#0f4" stroke="#45b6ff" stroke-width="5" opacity="0.5">
+        <ellipse cx="146.5" cy="59" rx="146.5" ry="59" stroke="none"/>
+        <ellipse cx="146.5" cy="59" rx="144" ry="56.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_22" data-name="Group 22" transform="translate(110.057 196.696)">
+      <path id="Path_14-3" data-name="Path 14" d="M1223,661.427V592.606h66.886v68.821Z" transform="translate(0 -43.64)" fill="#45b6ff" opacity="0.08"/>
+      <g id="Ellipse_4-3" data-name="Ellipse 4" transform="translate(1223 535.99)" fill="#45b6ff" stroke="#45b6ff" stroke-width="5" opacity="0.5">
+        <ellipse cx="33.397" cy="13.509" rx="33.397" ry="13.509" stroke="none"/>
+        <ellipse cx="33.397" cy="13.509" rx="30.897" ry="11.009" fill="none"/>
+      </g>
+      <g id="Ellipse_5-3" data-name="Ellipse 5" transform="translate(1223 604.286)" fill="#45b6ff" stroke="#45b6ff" stroke-width="5" opacity="0.5">
+        <ellipse cx="33.397" cy="13.509" rx="33.397" ry="13.509" stroke="none"/>
+        <ellipse cx="33.397" cy="13.509" rx="30.897" ry="11.009" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
